@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Application Multilingue Sécurisée",
+    "tagline": "Votre porte sécurisée vers le monde"
+  },
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de Bord",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "profile": "Profil",
+    "settings": "Paramètres"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "email": "Adresse E-mail",
+    "password": "Mot de Passe",
+    "confirm_password": "Confirmer le Mot de Passe",
+    "name": "Nom Complet",
+    "mobile": "Numéro de Mobile",
+    "remember_me": "Se Souvenir de Moi",
+    "forgot_password": "Mot de passe oublié ?",
+    "no_account": "Pas de compte ?",
+    "have_account": "Vous avez déjà un compte ?",
+    "login_btn": "Se Connecter",
+    "register_btn": "Créer un Compte",
+    "login_success": "Connexion réussie !",
+    "register_success": "Inscription réussie ! Veuillez vous connecter.",
+    "logout_success": "Déconnexion réussie."
+  },
+  "otp": {
+    "title": "Vérification OTP",
+    "enter_otp": "Entrez l'OTP",
+    "otp_sent_email": "L'OTP a été envoyé à votre e-mail",
+    "otp_sent_mobile": "L'OTP a été envoyé à votre mobile",
+    "verify": "Vérifier l'OTP",
+    "resend": "Renvoyer l'OTP",
+    "expires_in": "L'OTP expire dans",
+    "seconds": "secondes",
+    "invalid_otp": "OTP invalide. Veuillez réessayer.",
+    "expired_otp": "L'OTP a expiré. Veuillez en demander un nouveau.",
+    "verified": "OTP vérifié avec succès !"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "welcome": "Bienvenue",
+    "overview": "Aperçu",
+    "login_history": "Historique des Connexions",
+    "language_history": "Historique des Langues",
+    "total_logins": "Total des Connexions",
+    "recent_logins": "Connexions Récentes (24h)",
+    "unique_devices": "Appareils Uniques",
+    "current_language": "Langue Actuelle"
+  },
+  "history": {
+    "browser": "Navigateur",
+    "os": "Système d'Exploitation",
+    "device": "Type d'Appareil",
+    "ip_address": "Adresse IP",
+    "time": "Heure",
+    "language": "Langue",
+    "verified_by": "Vérifié Par",
+    "no_records": "Aucun enregistrement trouvé"
+  },
+  "language": {
+    "title": "Paramètres de Langue",
+    "select": "Sélectionner la Langue",
+    "change": "Changer de Langue",
+    "current": "Langue Actuelle",
+    "change_requires_otp": "Le changement de langue nécessite une vérification OTP",
+    "french_email_otp": "Le français nécessite une vérification OTP par e-mail",
+    "other_mobile_otp": "Cette langue nécessite une vérification OTP par mobile",
+    "changed_success": "Langue changée avec succès !"
+  },
+  "access": {
+    "chrome_otp": "Navigateur Chrome détecté. Vérification OTP par e-mail requise.",
+    "edge_allowed": "Navigateur Edge détecté. Accès accordé.",
+    "mobile_denied": "L'accès mobile n'est autorisé qu'entre 10h00 et 13h00.",
+    "mobile_allowed": "Accès mobile autorisé pendant les heures permises."
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire",
+    "invalid_email": "Veuillez entrer une adresse e-mail valide",
+    "password_min": "Le mot de passe doit contenir au moins 6 caractères",
+    "passwords_match": "Les mots de passe ne correspondent pas",
+    "invalid_credentials": "E-mail ou mot de passe invalide",
+    "email_exists": "E-mail déjà enregistré",
+    "server_error": "Une erreur s'est produite. Veuillez réessayer.",
+    "access_denied": "Accès refusé",
+    "session_expired": "Session expirée. Veuillez vous reconnecter."
+  },
+  "common": {
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "success": "Succès",
+    "error": "Erreur",
+    "warning": "Avertissement",
+    "info": "Information",
+    "yes": "Oui",
+    "no": "Non",
+    "ok": "OK"
+  }
+}

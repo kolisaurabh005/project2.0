@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Aplicación Multilingüe Segura",
+    "tagline": "Tu puerta segura al mundo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "profile": "Perfil",
+    "settings": "Configuración"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirm_password": "Confirmar Contraseña",
+    "name": "Nombre Completo",
+    "mobile": "Número de Móvil",
+    "remember_me": "Recordarme",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "no_account": "¿No tienes una cuenta?",
+    "have_account": "¿Ya tienes una cuenta?",
+    "login_btn": "Entrar",
+    "register_btn": "Crear Cuenta",
+    "login_success": "¡Inicio de sesión exitoso!",
+    "register_success": "¡Registro exitoso! Por favor inicia sesión.",
+    "logout_success": "Sesión cerrada exitosamente."
+  },
+  "otp": {
+    "title": "Verificación OTP",
+    "enter_otp": "Ingresa el OTP",
+    "otp_sent_email": "Se ha enviado el OTP a tu correo electrónico",
+    "otp_sent_mobile": "Se ha enviado el OTP a tu móvil",
+    "verify": "Verificar OTP",
+    "resend": "Reenviar OTP",
+    "expires_in": "El OTP expira en",
+    "seconds": "segundos",
+    "invalid_otp": "OTP inválido. Por favor intenta de nuevo.",
+    "expired_otp": "El OTP ha expirado. Por favor solicita uno nuevo.",
+    "verified": "¡OTP verificado exitosamente!"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "Bienvenido",
+    "overview": "Resumen",
+    "login_history": "Historial de Inicios de Sesión",
+    "language_history": "Historial de Idiomas",
+    "total_logins": "Total de Inicios de Sesión",
+    "recent_logins": "Inicios Recientes (24h)",
+    "unique_devices": "Dispositivos Únicos",
+    "current_language": "Idioma Actual"
+  },
+  "history": {
+    "browser": "Navegador",
+    "os": "Sistema Operativo",
+    "device": "Tipo de Dispositivo",
+    "ip_address": "Dirección IP",
+    "time": "Hora",
+    "language": "Idioma",
+    "verified_by": "Verificado Por",
+    "no_records": "No se encontraron registros"
+  },
+  "language": {
+    "title": "Configuración de Idioma",
+    "select": "Seleccionar Idioma",
+    "change": "Cambiar Idioma",
+    "current": "Idioma Actual",
+    "change_requires_otp": "El cambio de idioma requiere verificación OTP",
+    "french_email_otp": "El idioma francés requiere verificación OTP por correo",
+    "other_mobile_otp": "Este idioma requiere verificación OTP por móvil",
+    "changed_success": "¡Idioma cambiado exitosamente!"
+  },
+  "access": {
+    "chrome_otp": "Navegador Chrome detectado. Se requiere verificación OTP por correo.",
+    "edge_allowed": "Navegador Edge detectado. Acceso concedido.",
+    "mobile_denied": "El acceso móvil solo está permitido entre las 10:00 AM y la 1:00 PM.",
+    "mobile_allowed": "Acceso móvil permitido durante las horas autorizadas."
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalid_email": "Por favor ingresa un correo electrónico válido",
+    "password_min": "La contraseña debe tener al menos 6 caracteres",
+    "passwords_match": "Las contraseñas no coinciden",
+    "invalid_credentials": "Correo electrónico o contraseña inválidos",
+    "email_exists": "El correo electrónico ya está registrado",
+    "server_error": "Ocurrió un error. Por favor intenta de nuevo.",
+    "access_denied": "Acceso denegado",
+    "session_expired": "La sesión ha expirado. Por favor inicia sesión de nuevo."
+  },
+  "common": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "success": "Éxito",
+    "error": "Error",
+    "warning": "Advertencia",
+    "info": "Información",
+    "yes": "Sí",
+    "no": "No",
+    "ok": "Aceptar"
+  }
+}

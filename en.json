@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Secure Multi-Language App",
+    "tagline": "Your secure gateway to the world"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email Address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "name": "Full Name",
+    "mobile": "Mobile Number",
+    "remember_me": "Remember Me",
+    "forgot_password": "Forgot Password?",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "login_btn": "Sign In",
+    "register_btn": "Create Account",
+    "login_success": "Login successful!",
+    "register_success": "Registration successful! Please login.",
+    "logout_success": "Logged out successfully."
+  },
+  "otp": {
+    "title": "OTP Verification",
+    "enter_otp": "Enter OTP",
+    "otp_sent_email": "OTP has been sent to your email",
+    "otp_sent_mobile": "OTP has been sent to your mobile",
+    "verify": "Verify OTP",
+    "resend": "Resend OTP",
+    "expires_in": "OTP expires in",
+    "seconds": "seconds",
+    "invalid_otp": "Invalid OTP. Please try again.",
+    "expired_otp": "OTP has expired. Please request a new one.",
+    "verified": "OTP verified successfully!"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "overview": "Overview",
+    "login_history": "Login History",
+    "language_history": "Language History",
+    "total_logins": "Total Logins",
+    "recent_logins": "Recent Logins (24h)",
+    "unique_devices": "Unique Devices",
+    "current_language": "Current Language"
+  },
+  "history": {
+    "browser": "Browser",
+    "os": "Operating System",
+    "device": "Device Type",
+    "ip_address": "IP Address",
+    "time": "Time",
+    "language": "Language",
+    "verified_by": "Verified By",
+    "no_records": "No records found"
+  },
+  "language": {
+    "title": "Language Settings",
+    "select": "Select Language",
+    "change": "Change Language",
+    "current": "Current Language",
+    "change_requires_otp": "Language change requires OTP verification",
+    "french_email_otp": "French language requires email OTP verification",
+    "other_mobile_otp": "This language requires mobile OTP verification",
+    "changed_success": "Language changed successfully!"
+  },
+  "access": {
+    "chrome_otp": "Chrome browser detected. Email OTP verification required.",
+    "edge_allowed": "Edge browser detected. Access granted.",
+    "mobile_denied": "Mobile access is only allowed between 10:00 AM and 1:00 PM.",
+    "mobile_allowed": "Mobile access allowed during permitted hours."
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalid_email": "Please enter a valid email address",
+    "password_min": "Password must be at least 6 characters",
+    "passwords_match": "Passwords do not match",
+    "invalid_credentials": "Invalid email or password",
+    "email_exists": "Email already registered",
+    "server_error": "An error occurred. Please try again.",
+    "access_denied": "Access denied",
+    "session_expired": "Session expired. Please login again."
+  },
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK"
+  }
+}
